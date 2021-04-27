@@ -1,0 +1,17 @@
+***Solution #1 below has objective value 24.0.***
+
+Daniel, Nathan, Rachel's group gets project 2
+daniel's group gets project 5
+nate1's group gets project 10
+dan's group gets project 3
+nate2's group gets project 9
+dan2's group gets project 8
+nate3's group gets project 14
+rachel2's group gets project 15
+rachel3's group gets project 4
+nate4's group gets project 1
+dan3's group gets project 6
+rachel4's group gets project 7
+
+-----------------------------------------------------------
+
